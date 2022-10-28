@@ -1,0 +1,15 @@
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\bin\Debug\net6.0\ValidadorCPF.exe
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\bin\Debug\net6.0\ValidadorCPF.deps.json
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\bin\Debug\net6.0\ValidadorCPF.runtimeconfig.json
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\bin\Debug\net6.0\ValidadorCPF.dll
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\bin\Debug\net6.0\ValidadorCPF.pdb
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.csproj.AssemblyReference.cache
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.AssemblyInfoInputs.cache
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.AssemblyInfo.cs
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.csproj.CoreCompileInputs.cache
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.dll
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\refint\ValidadorCPF.dll
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.pdb
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ValidadorCPF.genruntimeconfig.cache
+c:\Users\Mateus Araújo\Desktop\Projetos\ProjetoCPF\ValidadorCPF\obj\Debug\net6.0\ref\ValidadorCPF.dll
